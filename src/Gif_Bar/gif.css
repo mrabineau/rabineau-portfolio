@@ -1,0 +1,20 @@
+#gif{
+  display: flex;
+}
+#seamless {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+@media only screen
+and (min-device-width: 414px)
+and (min-device-width: 736px) {
+
+  #seamless {
+  width: 100vw;
+  height: 100vh;
+  }
+
+
+}

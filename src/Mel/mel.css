@@ -1,0 +1,38 @@
+.header {
+  position: relative;
+  align-items: center;
+  margin-right: -64rem;
+  margin-top: 30%;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 2px;
+  font-family: 'Bungee', cursive;
+  color: #ffffff;
+  font-size: 4rem;
+  margin-right: 1px;
+}
+
+@media (max-width: 720px) {
+
+  .intro {
+    margin-right: 25rem;
+  }
+
+}
+
+@media (max-width: 414px) {
+
+  .header {
+    margin: 0 auto;
+  }
+
+  .intro {
+    margin-right: -27rem;
+    font-size: 2rem;
+    margin-top: 10rem;
+
+ }
+
+}
