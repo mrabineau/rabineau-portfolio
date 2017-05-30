@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Gif from './Gif_Bar/gif.js'
-import Mel from './Mel/mel.js'
+import Main from './Page_One/main.js'
 
 
 
