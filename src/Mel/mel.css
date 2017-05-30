@@ -2,7 +2,12 @@
   position: relative;
   align-items: center;
   margin-right: -64rem;
-  margin-top: 30%;
+  margin-top: 20%;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
 
 .intro {
@@ -12,6 +17,15 @@
   color: #ffffff;
   font-size: 4rem;
   margin-right: 1px;
+}
+
+h2 {
+  font-family: 'Bungee', cursive;
+  color: #BFBFBF;
+}
+
+#hand {
+  height: 10rem;
 }
 
 @media (max-width: 720px) {
