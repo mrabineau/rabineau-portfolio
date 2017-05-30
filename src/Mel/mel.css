@@ -14,14 +14,14 @@ a {
   text-align: center;
   margin-top: 2px;
   font-family: 'Bungee', cursive;
-  color: #ffffff;
+  color: #BFBFBF;
   font-size: 4rem;
   margin-right: 1px;
 }
 
-h2 {
+#scroll {
   font-family: 'Bungee', cursive;
-  color: #BFBFBF;
+  font-size: 3rem;
 }
 
 #hand {

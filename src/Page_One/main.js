@@ -1,11 +1,12 @@
 import React, { Component }  from 'react';
 import './main.css'
+import Info from './info.js'
 
 class Main extends Component {
   render () {
     return (
       <div id="main">
-        <h1 className="intro">COMING SOON</h1>
+        <Info />
       </div>
     )
   }
