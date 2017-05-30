@@ -44,9 +44,20 @@ a {
 
   .intro {
     margin-right: -27rem;
-    font-size: 2rem;
-    margin-top: 10rem;
+    font-size: 35px;
+/*    margin-top: 10rem;
+*/    width: 5px;
+  }
 
- }
+  #scroll {
+    display: none;
+  }
+
+
+  #hand {
+    height: 15rem;
+/*    margin-top: -10rem;
+*/  }
+
 
 }

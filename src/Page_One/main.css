@@ -29,6 +29,18 @@
   color: #36D7B7;
 }
 
+@media (max-width: 414px) {
+  #text {
+    width: 375px;
+    width: 100px;
+  }
+}
+
+ #me {
+  width: 100px;
+ }
+
+
 @media (max-width: 720px) {
 
   #info {
@@ -36,6 +48,16 @@
     }
 
   #text {
-    font-size: 4rem;
+    margin-left: 1rem;
+    margin-top: 3rem;
+    font-size: 30px;
+  }
+
+  #me {
+    margin-left: 1rem;
+    width: 1rem;
+    font-size: 7px;
+    display: flex;
+    flex-flow: column;
   }
 }
