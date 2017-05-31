@@ -10,11 +10,11 @@ import { BrowserRouter, Route } from 'react-router-dom';
   ReactDOM.render((
   <BrowserRouter>
     <div>
-      <Route path="/main" component={App} />
-      <Route exact path="/main" component ={Main} />
+      <Route path="/" component={App} />
     </div>
   </BrowserRouter>
 
     ), document.getElementById('root'));
 
 
+      // <Route exact path="/main" component ={Main} />
