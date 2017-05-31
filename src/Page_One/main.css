@@ -15,6 +15,11 @@
 
 }
 
+#about {
+  height: 100vh;
+  width: 100vw;
+}
+
 #me {
   position: absolute;
   text-align: left;
@@ -25,10 +30,12 @@
 #info {
   font-family: 'Bungee', cursive;
   color: white;
+  font-size: 3rem;
 }
 
 .contact {
   color: #F62459;
+  font-size: 1rem;
 }
 
 #soon {
@@ -36,6 +43,7 @@
   color: #36D7B7;
   width: 100rem;
   margin-top: 3rem;
+  font-size: 2rem;
 }
 
 @media (max-width: 414px) {
