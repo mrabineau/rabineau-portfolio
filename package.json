@@ -2,7 +2,6 @@
   "name": "rabineau-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrabineau.github.io/rabineau-portfolio/main",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
