@@ -27,6 +27,8 @@
 #soon {
   font-family: 'Bungee', cursive;
   color: #36D7B7;
+  width: 100rem;
+  margin-top: 3rem;
 }
 
 @media (max-width: 414px) {
