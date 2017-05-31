@@ -41,12 +41,18 @@ a {
 
   .header {
     margin: 0 auto;
+    text-align: center;
   }
 
   .intro {
     margin-right: -27rem;
     font-size: 1rem;
     width: 5px;
+  }
+
+  .link {
+    /*display: none;*/
+    font-size: larger;
   }
 
   #scroll {
@@ -56,15 +62,15 @@ a {
 
   #hand {
     height: 25rem;
-/*    margin-top: -10rem;
-*/  }
+    display:
+   }
 
 
 }
 
 @media (max-width: 375px) {
-  .intr0 {
-    font-size: 2rem;
+  .intro {
+    font-size: 3rem;
   }
 
 }
