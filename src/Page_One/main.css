@@ -9,11 +9,18 @@
   font-family: 'Bungee', cursive;
   color: #19B5FE;
   width: 80rem;
-  margin-left: 20rem;
   font-size: 4rem;
+  text-align: start;
+  margin-left: 10rem;
 
 }
 
+#me {
+  position: absolute;
+  text-align: left;
+  margin-left: 10rem;
+  font-family: 'Bungee', cursive;
+}
 
 #info {
   font-family: 'Bungee', cursive;
