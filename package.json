@@ -2,7 +2,7 @@
   "name": "rabineau-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rabineau-portfolio.herokuapp.com/main"
+  "homepage": "https://rabineau-portfolio.herokuapp.com/main",
   "devDependencies": {
     "react-scripts": "1.0.7"
   },
