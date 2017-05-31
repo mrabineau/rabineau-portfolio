@@ -45,9 +45,8 @@ a {
 
   .intro {
     margin-right: -27rem;
-    font-size: 4rem;
-/*    margin-top: 10rem;
-*/    width: 5px;
+    font-size: 1rem;
+    width: 5px;
   }
 
   #scroll {
@@ -60,5 +59,12 @@ a {
 /*    margin-top: -10rem;
 */  }
 
+
+}
+
+@media (max-width: 375px) {
+  .intr0 {
+    font-size: 2rem;
+  }
 
 }
