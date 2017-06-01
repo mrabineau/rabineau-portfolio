@@ -71,7 +71,14 @@ a {
   .intro {
     font-size: 2rem;
     align-self: center;
+    margin-left: 5rem;
+    margin-top: 7rem;
   }
+
+  .link {
+    margin-left: 4rem;
+  }
+
 
   #hand {
     height: 15rem;

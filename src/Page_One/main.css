@@ -9,9 +9,9 @@
   font-family: 'Bungee', cursive;
   color: #19B5FE;
   width: 80rem;
-  font-size: 4rem;
+  font-size: 5rem;
   text-align: start;
-  margin-left: 10rem;
+  margin-left: 3rem;
 
 }
 
@@ -23,7 +23,7 @@
 #me {
   position: absolute;
   text-align: left;
-  margin-left: 10rem;
+  margin-left: 3rem;
   font-family: 'Bungee', cursive;
 }
 
@@ -47,7 +47,7 @@
 }
 
 
-@media (min-width: 720px) {
+@media (max-width: 720px) {
 
   #info {
   margin-left: 0;
