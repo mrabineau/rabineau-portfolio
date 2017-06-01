@@ -1,7 +1,7 @@
 .header {
   position: relative;
   align-items: center;
-  margin-right: -64rem;
+  margin-right: -60rem;
   margin-top: 20%;
 }
 
@@ -71,8 +71,8 @@ a {
   .intro {
     font-size: 2rem;
     align-self: center;
-    margin-left: 5rem;
-    margin-top: 7rem;
+    margin-left: 4rem;
+    margin-top: 4rem;
   }
 
   .link {
